@@ -8,6 +8,7 @@ def logo():
 	print("\ \ /\ / / _ \ '_ \| '_ \ / _ \ / _ \| |/ / / __| '_ \| | __| __/ _ \ '__|")
 	print(" \ V  V /  __/ |_) | | | | (_) | (_) |   <  \__ \ | | | | |_| ||  __/ |   ")
 	print("  \_/\_/ \___|_.__/|_| |_|\___/ \___/|_|\_\ |___/_| |_|_|\__|\__\___|_|   ")
+	print("by SpezialK#4807")
 def main():
 	#who and what will be spammed
 	logo()
@@ -21,7 +22,6 @@ def main():
 		response = webhook.execute()
 		n = n+1
 main()
-#SpezialK on Top 
 #external modules needed: discord webhook
 #installed with the following comand :
 #pip install discord-webhook 
