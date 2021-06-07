@@ -17,8 +17,9 @@ def main():
 	amount = int(input("the amount of msgs: "))
 	n = 0
 	while n < amount:
+		tsleep = randint(1 , 3 )
 		webhook = DiscordWebhook(url=target, content=msg)
-		time.sleep(0.5)
+		time.sleep(tsleep)
 		response = webhook.execute()
 		n = n+1
 main()
