@@ -1,6 +1,7 @@
 #imports:
 from discord_webhook import DiscordWebhook
 import time
+from random import randint
 def logo():
 	print("              _     _                 _          _     _ _   _            ")
 	print("             | |   | |               | |        | |   (_) | | |           ")
