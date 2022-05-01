@@ -1,6 +1,6 @@
-# discord-webhook-shitter
+# discord-webhook-Spammer
 spamms discord webhooks writen in python.
-How to use webhookshitter by SpezialK#4807
+How to use webhookspammer by SpezialK#4807
 required python version 3.9+ I think older 3 version should work aswell but didn´t test them 
 1. run: 'pip install discord-webhook' in console  
 2. run the python document webhookshitter.py
